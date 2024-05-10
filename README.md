@@ -9,6 +9,8 @@
     * `products`
 
 ## Index Page
+<img src="https://github.com/techcodedu/assessment_package/blob/main/index.jpg?raw=true" alt="Index Page" width="800"/>
+
 
 * **Product Display:** All products are listed on the index page. Display four products per row. Each product should have:
     * **Image:** A clear and representative image.
