@@ -1,4 +1,4 @@
-
+ 
 **Project Title: Kiosk for an Online Store**
 
 ## System Requirements
@@ -10,7 +10,7 @@
 
 ## Index Page
 
-* **Product Display:** All products are listed on the index page. Each product should have:
+* **Product Display:** All products are listed on the index page. Display four products per row. Each product should have:
     * **Image:** A clear and representative image.
     * **Order Now Button:** An easily identifiable button to initiate the ordering process.
     * **Product Information:**
@@ -21,17 +21,20 @@
 ## Order Form Modal
 
 * **Product Details:**
+    * Customer Name (input field for the customer to enter their name)
     * Product Name (pre-filled)
     * Quantity (adjustable input field)
     * Total Price (calculated in real-time based on quantity)
 * **Real-time Price Calculation:** The total price automatically updates as the user changes the quantity.
-* **Submit Button:** Saves the order to the database.
+* **Submit Button:** Saves the order to the database with the customer's name.
 
 ## Orders Page
 
 * **Order Listing:** A dedicated page displays all placed orders. Consider including:
     * Order ID
-    * Customer Name (if applicable)
+    * Customer Name
     * Products Ordered (with quantity and price)
     * Total Order Amount
     * Order Status (pending, confirmed, shipped, etc.)
+
+ 
